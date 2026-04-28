@@ -7,11 +7,11 @@ This project helps HR teams gain meaningful insights into workforce behavior, en
 
 🚀 Key Features
 📈 Attendance Monitoring
-  Tracks overall attendance percentage
-  Visualizes attendance trends over time
+Tracks overall attendance percentage
+Visualizes attendance trends over time
 🏠 Work From Home (WFH) Analysis
-  Daily and trend-based WFH insights
-  Helps understand remote work patterns
+Daily and trend-based WFH insights
+Helps understand remote work patterns
 🏥 Sick Leave (SL) Tracking
 SL percentage analysis
 Identifies unusual leave trends
